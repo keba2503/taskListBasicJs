@@ -1,0 +1,30 @@
+body {
+    background-color:#2471C2;
+    font-family: 'Nova Flat', cursive;
+}
+
+.container{
+    margin-top: 3rem;
+    
+}
+.jumbotron {
+    background-color: #2471C2;
+   
+}
+
+.jumbotron h1{
+   color: white;
+  
+}
+
+#boton {
+    color: #0079bf;
+    background: #ffffff;
+    border: none;
+    padding: 8px 25px;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 17.5px;
+}
